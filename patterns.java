@@ -154,6 +154,7 @@ public class patterns {
 
         }
         System.out.println("reverce for above triangle");
+        
 
     }
 
